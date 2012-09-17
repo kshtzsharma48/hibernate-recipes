@@ -1,0 +1,4 @@
+hibernate-recipes
+=================
+
+Mavenized  examples
